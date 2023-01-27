@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "SI Foncier",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

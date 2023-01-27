@@ -1,0 +1,8 @@
+{
+  "name": "SI Foncier",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "13bbba34"
+}
